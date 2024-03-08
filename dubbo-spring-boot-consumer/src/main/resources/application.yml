@@ -1,6 +1,6 @@
 dubbo:
   application:
-    name: dubbo-springboot-provider
+    name: dubbo-springboot-consumer
   protocol:
     name: dubbo
     port: -1
